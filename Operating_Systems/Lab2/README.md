@@ -1,0 +1,1 @@
+In this lab, I created a library of functions that define a user-level threads package. Using my library, a program will be able to create threads, destroy them, and run them concurrently on a single processor.
